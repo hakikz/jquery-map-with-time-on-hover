@@ -17,4 +17,4 @@ World map with time on hovering map specific area using JQuery
 
 © Hakik Zaman
 
-License under the [MIT License] (License)
+License under the [MIT License](License).
