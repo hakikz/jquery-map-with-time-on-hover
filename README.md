@@ -8,3 +8,13 @@ World map with time on hovering map specific area using JQuery
 <h3> You are done!</h3>
 
 ![alt text](https://github.com/hakikz/jquery-map-with-time-on-hover/blob/master/picture-of-map.jpg)
+
+## Contributor
+
+- Hakik Zaman <hakikz@yahoo.com>
+
+## License & Copyright
+
+© Hakik Zaman
+
+License under the [MIT License] (License)
