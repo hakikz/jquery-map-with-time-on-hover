@@ -13,8 +13,6 @@ World map with time on hovering map specific area using JQuery
 
 - Hakik Zaman <hakikz@yahoo.com>
 
-## License & Copyright
-
-© Hakik Zaman
+## License
 
 License under the [MIT License](License).
