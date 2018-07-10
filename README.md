@@ -15,4 +15,4 @@ World map with time on hovering map specific area using JQuery
 
 ## License
 
-License under the [MIT License](License).
+License under the [MIT License](https://github.com/hakikz/jquery-map-with-time-on-hover/blob/master/license).
